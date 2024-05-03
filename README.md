@@ -1,4 +1,4 @@
-FastAPI Examples
+FastAPI Examples (groceries-plugin)
 -----------------------------
 Details to be added.
 
